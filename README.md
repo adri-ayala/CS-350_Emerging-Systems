@@ -1,5 +1,5 @@
 # CS-350_Emerging-Systems
-# CS 350 Module Eight Journal: Smart Thermostat Project Reflection
+
 
 ## **Project Summary**
 This project focused on developing a prototype smart thermostat for SysTec, a company exploring entry into the smart home market. The goal was to design and program a system that could sense temperature, display data, and control heating or cooling indicators using a Raspberry Pi. The thermostat reads temperature through an AHT20 sensor, displays the information on an LCD, and uses LEDs and buttons for user interaction. The prototype also simulates sending data to a cloud server through a serial connection, which represents the next phase of connecting the device to SysTec’s software.
